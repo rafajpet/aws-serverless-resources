@@ -1,4 +1,8 @@
 
+### Architecture
+
+- [clean code, DDD, typescript, leegilmorecode](https://github.com/leegilmorecode/clean-serverless-code/tree/main) - clean code, serverless, serverless advocate blog
+- [DDD, clean architecture, leegilmorecode](https://levelup.gitconnected.com/serverless-architecture-layers-a9dc50e9b342) - DDD, clean architecture
 
 ### SQS
 
