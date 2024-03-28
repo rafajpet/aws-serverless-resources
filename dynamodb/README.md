@@ -17,3 +17,7 @@
 - [lambda function fix dynamodb stream](https://repost.aws/knowledge-center/lambda-functions-fix-dynamodb-streams) - troubleshooting for dynamodb and lambda
 - [optimizing-batch-processing-with-custom-checkpoints-in-aws-lambda](https://aws.amazon.com/blogs/compute/optimizing-batch-processing-with-custom-checkpoints-in-aws-lambda/)
 - [www.alexdebrie.com/bites/dynamodb-streams](https://www.alexdebrie.com/bites/dynamodb-streams/#:~:text=DynamoDB%20wants%20you%20to%20use,when%20using%20enhanced%20fan%2Dout.) - DynamoDB stream
+
+## Pricing
+
+- [amazon-dynamodb-pricing-explained](https://blog.awsfundamentals.com/amazon-dynamodb-pricing-explained)
