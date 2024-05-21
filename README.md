@@ -16,6 +16,10 @@
 
 - [Advanced serverless workflow patterns and best practices (API309)](https://www.youtube.com/watch?v=o6-7BAUWaqg&ab_channel=AWSEvents)
 
+### EDA
+
+- [SAGA explained](https://medium.com/ssense-tech/handling-complexity-using-sagas-to-provide-transactional-support-for-distributed-systems-61ae909e0829)
+- [SAGA impl with Step function](https://medium.com/ssense-tech/implementing-sagas-using-aws-step-functions-2ad3b5c609d1)
 
 ### Blogs
 
