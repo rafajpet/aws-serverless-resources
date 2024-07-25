@@ -25,3 +25,4 @@
 ### Blogs
 
 - [notes.paulswail.com](https://notes.paulswail.com/public/TypeScript+tools+for+serverless+apps)
+- [www.serverlessadvocate.com](https://www.serverlessadvocate.com/)
