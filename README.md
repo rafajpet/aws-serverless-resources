@@ -11,6 +11,7 @@
 ### Presentation AWS re:Invent 2023
 
 - [Advanced event-driven patterns with EventBridge](https://www.youtube.com/watch?v=6X4lSPkn4ps&ab_channel=AWSEvents)
+- [AWS re:Invent 2023 - Building next-generation applications with event-driven architecture (API302)](https://www.youtube.com/watch?v=KXR17uwLEC8&ab_channel=AWSEvents)
 
 ### Presentation AWS re:Invent 2022
 
